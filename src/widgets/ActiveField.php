@@ -1,10 +1,10 @@
 <?php
 
-namespace yeesoft\multilingual\widgets;
+namespace syildiz\multilingual\widgets;
 
 use Yii;
-use yeesoft\multilingual\helpers\MultilingualHelper;
-use yeesoft\multilingual\assets\FormLanguageSwitcherAsset;
+use syildiz\multilingual\helpers\MultilingualHelper;
+use syildiz\multilingual\assets\FormLanguageSwitcherAsset;
 
 /**
  * @inheritdoc

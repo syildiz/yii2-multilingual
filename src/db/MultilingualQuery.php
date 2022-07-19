@@ -1,5 +1,5 @@
 <?php
-namespace yeesoft\multilingual\db;
+namespace syildiz\multilingual\db;
 
 use yii\db\ActiveQuery;
 

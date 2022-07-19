@@ -2,9 +2,9 @@
 
 namespace models;
 
-use yeesoft\multilingual\behaviors\MultilingualBehavior;
-use yeesoft\multilingual\db\MultilingualLabelsTrait;
-use yeesoft\multilingual\db\MultilingualQuery;
+use syildiz\multilingual\behaviors\MultilingualBehavior;
+use syildiz\multilingual\db\MultilingualLabelsTrait;
+use syildiz\multilingual\db\MultilingualQuery;
 
 class PostCustomized extends \yii\db\ActiveRecord
 {

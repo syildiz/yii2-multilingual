@@ -1,6 +1,6 @@
 <?php
 
-namespace yeesoft\multilingual\helpers;
+namespace syildiz\multilingual\helpers;
 
 use Yii;
 use yii\helpers\Inflector;
