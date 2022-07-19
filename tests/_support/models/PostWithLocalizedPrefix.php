@@ -2,7 +2,7 @@
 
 namespace models;
 
-use yeesoft\multilingual\behaviors\MultilingualBehavior;
+use syildiz\multilingual\behaviors\MultilingualBehavior;
 
 class PostWithLocalizedPrefix extends PostCustomized
 {

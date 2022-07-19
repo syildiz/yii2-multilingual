@@ -1,9 +1,9 @@
 <?php
 
-namespace yeesoft\multilingual\behaviors;
+namespace syildiz\multilingual\behaviors;
 
 use yii\base\UnknownPropertyException;
-use yeesoft\multilingual\helpers\MultilingualHelper;
+use syildiz\multilingual\helpers\MultilingualHelper;
 
 trait MultilingualBehaviorTrait
 {

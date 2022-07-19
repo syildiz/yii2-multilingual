@@ -1,7 +1,7 @@
 <?php
 
 use yii\helpers\Html;
-use yeesoft\multilingual\widgets\ActiveForm;
+use syildiz\multilingual\widgets\ActiveForm;
 
 /* @var $this yii\web\View */
 ?>

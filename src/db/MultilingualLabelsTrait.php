@@ -1,6 +1,6 @@
 <?php
 
-namespace yeesoft\multilingual\db;
+namespace syildiz\multilingual\db;
 
 /**
  * Multilingual attribute labels trait.

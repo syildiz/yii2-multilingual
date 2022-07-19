@@ -1,12 +1,12 @@
 <?php
 
-namespace yeesoft\multilingual\web;
+namespace syildiz\multilingual\web;
 
 use Yii;
 use yii\web\UrlManager;
 use yii\web\Application;
 use yii\web\NotFoundHttpException;
-use yeesoft\multilingual\helpers\MultilingualHelper;
+use syildiz\multilingual\helpers\MultilingualHelper;
 
 class MultilingualUrlManager extends UrlManager
 {

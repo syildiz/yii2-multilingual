@@ -1,6 +1,6 @@
 <?php
 
-namespace yeesoft\multilingual\assets;
+namespace syildiz\multilingual\assets;
 
 use yii\web\AssetBundle;
 
